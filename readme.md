@@ -1,7 +1,7 @@
-#Welcome to my test area
+# Welcome to my test area
 
 This is part of my course as a practice
 
-##Just testing out things
+## Just testing out things
 
 	Have a nice day
