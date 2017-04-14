@@ -100,3 +100,6 @@ Luodaan vielä skripti, millä saadaan helposti GitHubista tämä luotu moduuli.
 	bash boot.sh
 
 Kyseinen scripti ajaa päivitykset ja asentaa gitin, kloonaa minun git repositoryn ja avaa H3 harjoituksen kansion.
+Testasin vielä skriptin toimivuuden poistamalla git kansioni omasta työpoydästäni, sekä poistin Gitin myös, ja tämän jälkeen ajoin scriptin. Kaikki toimii niin kuin pitääkin, ja repository löytyy omalta työpöydältäni heti.
+
+Harjoitus lopetettiin klo 20:49, josta käytettiin aikaa tiedon etsimiseen n.30min sekä syömiseen n.15min.
